@@ -3,7 +3,7 @@ Hi, Guys, Welcome to gostudy!
 
 You will Learn the go language here, from entry to abandonment!
 
-I will write study notes here, commit codes and add comment everyday!
+I will keep updating study notes here, commit codes and add comment everyday!
 
 
 目标：熟练使用go语言后端编程
