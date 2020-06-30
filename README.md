@@ -29,7 +29,7 @@ I will keep updating study notes here, commit codes and add comment everyday!
 	4.熟悉dde-daemon后端项目: 剖析源码，整体框架，整理流程图，模块源码分析（7天）
 	5.编写调用各种系统DBUS接口的demo（4天）
 	
-四. go web（14天）
+四. go Web编程（14天）
 
 	1.编写自己的http服务器（2天）
 	2.熟悉web框架：Gin或Beego（7天）
