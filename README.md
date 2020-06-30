@@ -1,2 +1,2 @@
 # gostudy
-learning go languange，from entry to abandom
+learn the go language，from entry to abandonment!
