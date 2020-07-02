@@ -9,13 +9,9 @@ go版本：go1.13.4.linux-amd64.tar.gz
 golang版本：goland-2019.2.3.tar.gz
 
 
-go官网下载链接：
+go官网下载链接：https://dl.google.com/go/go1.13.4.linux-amd64.tar.gz
 
-https://dl.google.com/go/go1.13.4.linux-amd64.tar.gz
-
-golang官网下载链接：
-
-https://www.jetbrains.com/go/download/other.html
+golang官网下载链接：https://www.jetbrains.com/go/download/other.html
 
 
 ## go环境配置
