@@ -51,7 +51,7 @@ golang官网下载链接：https://www.jetbrains.com/go/download/other.html
 	# go build hello.go 
 	# ./hello 
 
-## Golang IDE集成工具安装和配置
+## Golang安装和配置
 
 ### 下载并解压
 
@@ -64,7 +64,7 @@ golang官网下载链接：https://www.jetbrains.com/go/download/other.html
 	# cd GoLand-2019.2.3/bin/
 	# ./goland.sh
 
-### 安装破解汉化
+### 破解汉化
 
 参考：http://c.biancheng.net/view/6124.html
 
