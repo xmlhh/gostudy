@@ -26,6 +26,7 @@ golang官网下载链接：https://www.jetbrains.com/go/download/other.html
 ### 配置环境变量
 
 注：在uos系统上，配置到/etc/profile，只在当前终端生效，重开终端，不生效;
+
 可以配置到这里：全局配置到/etc/bash.bashrc，用户环境变量配置到~/.bashrc
 
 	export GOROOT=/usr/local/go
