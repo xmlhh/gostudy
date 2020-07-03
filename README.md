@@ -24,7 +24,7 @@ I will keep updating study notes here, commit codes and add comment everyday!
 	3.共享内存，资源竞争，互斥锁/读写锁
 	4.包和工具/测试技术/反射
 
-### DDE后端
+### go dde后端
 
 	1.熟悉GSettings机制原理，编写GSettings demo
 	2.熟悉DBus机制原理，编写DBus demo
