@@ -9,9 +9,6 @@ I will keep updating study notes here, commit codes and add comment everyday!
 
 
 
-## 目标：熟练使用go语言后端编程
-
-
 ### go 基础
 
 	1.语法/数据类型/控制循环语句/函数 
@@ -24,7 +21,7 @@ I will keep updating study notes here, commit codes and add comment everyday!
 	3.共享内存，资源竞争，互斥锁/读写锁
 	4.包和工具/测试技术/反射
 
-### go dde后端
+### go与dde后端
 
 	1.熟悉GSettings机制原理，编写GSettings demo
 	2.熟悉DBus机制原理，编写DBus demo
@@ -32,7 +29,7 @@ I will keep updating study notes here, commit codes and add comment everyday!
 	4.熟悉dde-daemon后端项目: 剖析源码，整体框架，整理流程图，模块源码分析
 	5.编写调用各种系统DBUS接口的demo
 	
-### go Web编程
+### go web编程
 
 	1.编写自己的http服务器
 	2.熟悉web框架：Gin或Beego
